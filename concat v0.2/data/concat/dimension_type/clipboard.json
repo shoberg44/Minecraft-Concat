@@ -1,0 +1,19 @@
+{
+  "ambient_light": 0,
+  "infiniburn": "#minecraft:infiniburn_nether",
+  "respawn_anchor_works": false,
+  "has_raids": false,
+  "min_y": 0,
+  "height": 16,
+  "logical_height": 16,
+  "natural": true,
+  "coordinate_scale": 1,
+  "piglin_safe": true,
+  "bed_works": true,
+  "has_skylight": true,
+  "has_ceiling": false,
+  "ultrawarm": false,
+  "fixed_time": 6000,
+  "monster_spawn_light_level": 1,
+  "monster_spawn_block_light_limit": 0
+}
